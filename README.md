@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [IICT-Construction-Site-Management-System-SUST](https://github.com/Mynul436/IICT-Construction-Site-Management-System-SUST)
 
-- 🌱 I’m currently learning **C#,ASP.NET Core MVC(.NET 6),Angular**
+- 🌱 I’m currently learning **C#,ASP.NET Core MVC(.NET 6),Angular,TypeScript**
 
 - 💬 Ask me about **Java,Javascript**
 
