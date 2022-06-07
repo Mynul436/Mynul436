@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [News Blog,Web Technology Project(swe330)](https://github.com/Mynul436/News_Blog)
 
-- 🌱 I’m currently learning **C#,ASP.NET CORE MVC(.NET6)**
+- 🌱 I’m currently learning **C#,ASP.NET CORE MVC(.NET6),Angular 13**
 
 - 💬 Ask me about **Javascript,C#**
 
