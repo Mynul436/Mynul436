@@ -1,7 +1,7 @@
 <h1 align="center">Assalamualikum👋, I'm Mynul Islam</h1>
 <h3 align="center">Studies -Software Engineering (6th semester),IICT,SUST</h3>
 
-- 🔭 I’m currently working on [News Blog,Web Technology Project(swe330)](https://github.com/Mynul436/News_Blog)
+- 🔭 I’m currently working on [RemedyApp For Therap javafest](https://github.com/AbidAhmed2018831062/RemedySite)
 
 - 🌱 I’m currently learning **C#,ASP.NET CORE MVC(.NET6),Angular 14**
 
