@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RemedyApp For Therap javafest](https://github.com/AbidAhmed2018831062/RemedySite)
 
-- 🌱 I’m currently learning **C#,ASP.NET CORE MVC(.NET6),Angular 14**
+- 🌱 I’m currently learning **C#,ASP.NET CORE WEB API(.NET6),Angular 14**
 
 - 💬 Ask me about **Javascript,C#**
 
