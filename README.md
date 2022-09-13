@@ -29,15 +29,18 @@
 
 <h3>Achievements</h3>
 <p>
-• Therap JavaFest Hackathon Finalist organized by Therap (BD) Ltd
-• Secured 11th position among 200+ team in bdapps National
-Hackathon 2022 at Sylhet region
+• Therap JavaFest Hackathon Finalist organized by Therap (BD) Ltd <br> 
+• Secured 11th position among 200+ team in bdapps National 
+Hackathon 2022 at Sylhet region <br> 
 • Udemy Online Course Certificate on Data Structures and Algorithms
-In Depth Using C Sharp: 
-https://www.udemy.com/certificate/UC-e251c1fe-2eb5-42ff-9f69-6eb38fbf3c3b/
+In Depth Using C Sharp: <br> 
 
-• Udemy Online Course Certificate on ASP.NET Core MVC(.NET 6):
-https://www.udemy.com/certificate/UC-25724107-72a1-48eb-b4b8-8876d911cc1f/
+<a href="https://www.udemy.com/certificate/UC-e251c1fe-2eb5-42ff-9f69-6eb38fbf3c3b/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="udemy" width="40" height="40"/> </a>
+ 
+<br> 
+• Udemy Online Course Certificate on ASP.NET Core MVC(.NET 6): <br> 
+ <a href="https://www.udemy.com/certificate/UC-25724107-72a1-48eb-b4b8-8876d911cc1f/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="udemy" width="40" height="40"/> </a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
