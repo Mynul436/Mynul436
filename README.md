@@ -35,11 +35,11 @@ Hackathon 2022 at Sylhet region <br>
 • Udemy Online Course Certificate on Data Structures and Algorithms
 In Depth Using C Sharp: <br> 
 
-<a href="https://www.udemy.com/certificate/UC-e251c1fe-2eb5-42ff-9f69-6eb38fbf3c3b/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="udemy" width="40" height="40"/> </a>
+<a href="https://www.udemy.com/certificate/UC-e251c1fe-2eb5-42ff-9f69-6eb38fbf3c3b/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ilFzSah7HDuG4ALIK3gE8tQKOx58QLUTBMiUQhdtA&s" alt="udemy" width="40" height="40"/> </a>
  
 <br> 
 • Udemy Online Course Certificate on ASP.NET Core MVC(.NET 6): <br> 
- <a href="https://www.udemy.com/certificate/UC-25724107-72a1-48eb-b4b8-8876d911cc1f/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="udemy" width="40" height="40"/> </a>
+ <a href="https://www.udemy.com/certificate/UC-25724107-72a1-48eb-b4b8-8876d911cc1f/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ilFzSah7HDuG4ALIK3gE8tQKOx58QLUTBMiUQhdtA&s" alt="udemy" width="40" height="40"/> </a>
  
 </p>
 
