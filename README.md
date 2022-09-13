@@ -11,13 +11,14 @@
 
 - ⚡ Fun fact **Cricket,eating Rosgolla :)**
 
-
-<h3>StopStalk Profile:</h3>
-<p align ="left><a herf ="https://www.stopstalk.com/user/profile/mynul436" target="_blank"></a>
- </p>
-<h3 align="left">Codeforces Handle:</h3>
+<h3 align="left">StopStalk:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/akash_436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akash_436" height="30" width="40" /></a>
+ </p>
+
+<h3 align="left">Codeforces Handle:</h3>
+<p align="left">
+<a href="https://www.stopstalk.com/user/profile/mynul436" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="akash_436" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
