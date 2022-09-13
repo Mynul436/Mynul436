@@ -22,9 +22,22 @@
 </p>
 
 
-<h3 align="left">Linkedin:</h3>
+<h3 align="left">Linkedin Profile:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mynul-islam-a5a3a4185/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi40qa6LcCAJTsQpQ2LoesgPMLaYv70TTH0yaeV12zug&s" alt="akash_436" height="30" width="40" /></a>
+</p>
+
+<h3>Achievements</h3>
+<p>
+• Therap JavaFest Hackathon Finalist organized by Therap (BD) Ltd
+• Secured 11th position among 200+ team in bdapps National
+Hackathon 2022 at Sylhet region
+• Udemy Online Course Certificate on Data Structures and Algorithms
+In Depth Using C Sharp: 
+https://www.udemy.com/certificate/UC-e251c1fe-2eb5-42ff-9f69-6eb38fbf3c3b/
+
+• Udemy Online Course Certificate on ASP.NET Core MVC(.NET 6):
+https://www.udemy.com/certificate/UC-25724107-72a1-48eb-b4b8-8876d911cc1f/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
