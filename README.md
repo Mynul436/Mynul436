@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KroyBikroy for SWE350](https://github.com/Mynul436/KroyBikroySite)
 
-- 🌱 I’m currently learning **C#,ASP.NET CORE WEB API(.NET6),Angular 14**
+- 🌱 I’m currently learning **ASP.NET CORE WEB API(.NET6),.NET MAUI**
 
 - 💬 Ask me about **Javascript,C#**
 
