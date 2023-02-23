@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KroyBikroy for SWE350](https://github.com/Mynul436/KroyBikroySite),[Mcq App](https://github.com/Mynul436/McqApp)
 
-- 🌱 I’m currently learning **ASP.NET CORE WEB API(.NET6),Kotlin**
+- 🌱 I’m currently learning **PHP,Laravel**
 
 - 💬 Ask me about **Javascript,C#**
 
