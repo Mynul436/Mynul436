@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualikum👋, I'm Mynul Islam</h1>
-<h3 align="center">Studies -Software Engineering (6th semester),IICT,SUST</h3>
+<h3 align="center">Studies -Software Engineering (7th semester),IICT,SUST</h3>
 
 - 🔭 I’m currently working on [KroyBikroy for SWE350](https://github.com/Mynul436/KroyBikroySite),[Mcq App](https://github.com/Mynul436/McqApp)
 
