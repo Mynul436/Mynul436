@@ -29,6 +29,7 @@
 
 <h3>Achievements</h3>
 <p>
+• Secured 7th position at CODE SAMURAI 2022,Dhaka University Hackathon <br> 
 • Therap JavaFest Hackathon Finalist organized by Therap (BD) Ltd <br> 
 • Secured 11th position among 200+ team in bdapps National 
 Hackathon 2022 at Sylhet region <br> 
