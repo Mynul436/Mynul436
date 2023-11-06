@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualikum👋, I'm Mynul Islam</h1>
-<h3 align="center">Studies -Software Engineering (7th semester),IICT,SUST</h3>
+<h3 align="center">Studies -Software Engineering - 8th semester(last semester),IICT,SUST</h3>
 
 - 🔭 I’m currently working on DHL Referral Program
 
