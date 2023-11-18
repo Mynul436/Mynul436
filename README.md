@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on DHL Referral Program
 
-- 🌱 I’m currently learning **PHP,Laravel**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **Javascript,C#**
+- 💬 Ask me about **Javascript,C#,Laravel,PHP**
 
 - 📫 How to reach me **mynulakash436@gmail.com**
 
