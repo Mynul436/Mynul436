@@ -3,6 +3,9 @@
 <h3 align="center">Software Engineer | Backend & Web Development</h3>
 
 <p align="center">
+  <a href="https://mynul436.github.io/">
+    <img src="https://img.shields.io/badge/Profile-Mynul%20Islam-success?style=for-the-badge&logo=google-chrome" alt="Profile"/>
+  </a>
   <a href="https://www.linkedin.com/in/mynul-islam-a5a3a4185/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -153,6 +156,9 @@ My undergraduate thesis explored the use of **Machine Learning and Neural Networ
 ## 🔗 Connect
 
 <p>
+<a href="https://mynul436.github.io/">
+<img src="https://img.shields.io/badge/Profile-Mynul%20Islam-success?style=for-the-badge&logo=google-chrome"/>
+</a>
 <a href="https://www.linkedin.com/in/mynul-islam-a5a3a4185/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
