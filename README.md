@@ -1,47 +1,177 @@
-<h1 align="center">Assalamualikum👋, I'm Mynul Islam</h1>
-<h3 align="center">Studies -Software Engineering - 8th semester(last semester),IICT,SUST</h3>
+<h1 align="center">Assalamu Alaikum 👋, I'm Mynul Islam</h1>
 
-- 🔭 I’m currently working on DHL Referral Program
+<h3 align="center">Software Engineer | Backend & Web Development</h3>
 
-- 🌱 I’m currently learning **NextJS**
-
-- 💬 Ask me about **Javascript,C#,Laravel,PHP**
-
-- 📫 How to reach me **mynulakash436@gmail.com**
-
-- ⚡ Fun fact **Cricket,eating Rosgolla :)**
-
-<h3 align="left">StopStalk:</h3>
-<p align="left">
-<a href="https://www.stopstalk.com/user/profile/mynul436" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="akash_436" height="30" width="40" /></a>
- </p>
-
-<h3 align="left">Codeforces Handle:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/akash_436" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3COSArGjxmqJUmcLCj9jLgTbICCSanZLpGEvhQb8zrA&s" alt="akash_436" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mynul-islam-a5a3a4185/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mynulakash436@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/Mynul436">
+    <img src="https://img.shields.io/badge/GitHub-Mynul436-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
+---
 
-<h3 align="left">Linkedin Profile:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mynul-islam-a5a3a4185/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi40qa6LcCAJTsQpQ2LoesgPMLaYv70TTH0yaeV12zug&s" alt="akash_436" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3>Achievements</h3>
+I am a **Software Engineering graduate from Shahjalal University of Science and Technology (SUST)** with practical experience in **backend and web application development**.
+
+My professional experience includes working as a **Junior Software Engineer / Laravel Developer**, where I worked on real-world client applications, backend functionality, databases, APIs, and feature development.
+
+I am particularly interested in **backend engineering, web technologies, and Artificial Intelligence**, and I enjoy building practical software solutions and learning new technologies.
+
+* 💼 Junior Software Engineer / Laravel Developer
+* 🔧 Backend development with **PHP & Laravel**
+* 🗄️ Experience with **SQL Server & relational database design**
+* 🌐 Experience developing and integrating **REST APIs**
+* 🚀 Experience working on real-world client applications
+* 🔬 Undergraduate research experience in **Machine Learning & Bengali NLP**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+
+---
+
+## 💼 Professional Experience
+
+### Junior Software Engineer / Laravel Developer
+
+**Luminous Labs**
+
+Worked on a client-focused **DHL Referral Program** application.
+
+**Key contributions:**
+
+* Developed and maintained backend functionality using **PHP & Laravel**
+* Implemented new features according to project requirements
+* Worked with relational database structures and SQL Server
+* Developed and integrated backend APIs
+* Fixed bugs and improved existing application functionality
+* Worked with role-based access control
+* Collaborated with the development team throughout the software development lifecycle
+
+**Technologies:**
+`PHP` `Laravel` `SQL Server` `REST API` `Docker` `Blade` `Git`
+
+---
+
+## 🚀 Selected Projects
+
+### 📦 DHL Referral Program
+
+A customer referral and loyalty platform developed for **DHL Express Bangladesh**.
+
+My work focused primarily on the **backend and application functionality**, including feature development, database operations, API integration, bug fixing, and maintaining existing modules.
+
+**Technologies:**
+`PHP` `Laravel` `SQL Server` `Docker` `Blade` `Git`
+
+---
+
+### 🛒 KroyBikroySite
+
+A team-based **second-hand e-commerce marketplace** developed as part of our SWE350 academic project.
+
+My primary responsibility was the **database and backend development**.
+
+**My contributions:**
+
+* Designed the database structure and relationships
+* Developed **user registration and login** functionality
+* Developed APIs for **data retrieval**
+* Implemented required database operations
+* Worked on backend–frontend integration
+* Collaborated with team members to integrate the complete application
+
+**Technologies:**
+`Backend API` `SQL` `JavaScript` `Database Design`
+
+🔗 **Project:**
+https://github.com/Mynul436/KroyBikroySite
+
+---
+
+## 🔬 Research
+
+### Bengali Music Emotion Analysis
+
+**An Empirical Approach toward Identifying the Core Sentiments of Bengali Music Using Machine Learning and Neural Network Classifiers**
+
+My undergraduate thesis explored the use of **Machine Learning and Neural Networks** to identify emotional characteristics from Bengali song lyrics.
+
+**Research areas:**
+
+`Machine Learning` `Natural Language Processing` `Text Classification` `Bengali NLP`
+
+---
+
+## 🧠 Areas of Interest
+
+`Artificial Intelligence` · `Machine Learning` · `Backend Engineering` · `Web Development` · `REST APIs` · `Database Systems`
+
+---
+
+## 🛠️ Technologies
+
 <p>
-• Secured 7th position at CODE SAMURAI 2022,Dhaka University Hackathon <br> 
-• Therap JavaFest Hackathon Finalist organized by Therap (BD) Ltd <br> 
-• Secured 11th position among 200+ team in bdapps National 
-Hackathon 2022 at Sylhet region <br> 
-• Udemy Online Course Certificate on Data Structures and Algorithms
-In Depth Using C Sharp: <br> 
-<a href="https://www.udemy.com/certificate/UC-e251c1fe-2eb5-42ff-9f69-6eb38fbf3c3b/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ilFzSah7HDuG4ALIK3gE8tQKOx58QLUTBMiUQhdtA&s" alt="udemy" width="40" height="40"/> </a> 
-<br> 
-• Udemy Online Course Certificate on ASP.NET Core MVC(.NET 6): <br> 
- <a href="https://www.udemy.com/certificate/UC-25724107-72a1-48eb-b4b8-8876d911cc1f/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ilFzSah7HDuG4ALIK3gE8tQKOx58QLUTBMiUQhdtA&s" alt="udemy" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="c" width="40" height="40"/> </a><a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXCQ5E0qsYZDH4-nuZRPavyQtM3opX23GJ9PLwVYj-&s" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynul436&show_icons=true&locale=en&layout=compact" alt="mynul436" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mynul436&show_icons=true&locale=en" alt="mynul436" /></p>
+---
+
+## 🏆 Achievements
+
+* 🏅 **7th Position** — CODE SAMURAI 2022, University of Dhaka Hackathon
+* 🏅 **Finalist** — Therap JavaFest Hackathon, Therap (BD) Ltd.
+* 🏅 **11th Position among 200+ teams** — bdapps National Hackathon 2022, Sylhet Region
+* 📚 Data Structures and Algorithms in Depth Using C# — Udemy
+* 📚 ASP.NET Core MVC (.NET 6) — Udemy
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mynul436&show_icons=true&locale=en" alt="Mynul's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mynul436&show_icons=true&locale=en&layout=compact" alt="Mynul's Top Languages"/>
+</p>
+
+---
+
+## 🔗 Connect
+
+<p>
+<a href="https://www.linkedin.com/in/mynul-islam-a5a3a4185/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:mynulakash436@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://codeforces.com/profile/akash_436">
+<img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces"/>
+</a>
+<a href="https://www.stopstalk.com/user/profile/mynul436">
+<img src="https://img.shields.io/badge/StopStalk-Profile-green?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building practical software, learning continuously, and exploring AI.</i>
+</p>
